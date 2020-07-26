@@ -17,15 +17,13 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "838cc61949a95285e9fed6cc0cfb930b",
-"/": "838cc61949a95285e9fed6cc0cfb930b",
-"main.dart.js": "f09df53ef99654380c3b8dd7208620f4",
-"main.dart.js_1.part.js": "6ed538ec5140ac75a8e2821b473811d1",
-"main.dart.js_2.part.js": "fe9fac8a8ac089751189a9074a039815",
-"main.dart.js_3.part.js": "bf9daf3530e0ee2473d0698587467faf",
-"main.dart.js_4.part.js": "b63b785c27beab8df59e5d29c691c4e4",
-"main.dart.js_5.part.js": "702e46ac4c7b96c07734ff4c3793cef6",
-"manifest.json": "784818bb02a19f3877cd51f94b5b3033"
+"index.html": "162646e0b28137af35c44cc3a4d3b695",
+"/": "162646e0b28137af35c44cc3a4d3b695",
+"main.dart.js": "3532ef9792dfcae0ff3adc6b142ee80a",
+"main.dart.js_1.part.js": "69b7e13fafcdd464c7d70b472e834374",
+"main.dart.js_2.part.js": "4daafd79bbce2599c5ced3da62e8e89c",
+"main.dart.js_3.part.js": "fa9c12c68bcf3be5263c1437d2375940",
+"manifest.json": "c6bd2f635148d44ddd1bab5e1f9b1049"
 };
 
 // The application shell files that are downloaded before a service worker can
